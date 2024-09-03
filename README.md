@@ -1,6 +1,7 @@
-# UML-Class-Diagram-examples
 # UML Class Diagrams
 
+This repository gives few examples of Class Diagrams under the structural diagrams of UML. Below is an insight into what a Class Diagram is.
+ 
 ## Overview
 
 **Definition**:  
